@@ -13,7 +13,6 @@
  *
  */
 
-import org.omg.CORBA.Current;
 
 import java.util.Scanner;
 public class Main {
